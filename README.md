@@ -1,0 +1,2 @@
+# SIColetaLixo
+Criação do repositório
